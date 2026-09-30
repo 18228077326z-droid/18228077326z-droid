@@ -22,7 +22,7 @@ We shape complex, data-heavy web applications into clear product systems. Our fo
 
 [![ERP UI/UX concept portfolio](https://raw.githubusercontent.com/18228077326z-droid/haurux-erp-portfolio/main/assets/social-preview.png)](https://18228077326z-droid.github.io/haurux-erp-portfolio/)
 
-[Open the Live Demo](https://18228077326z-droid.github.io/haurux-erp-portfolio/) | [Read the Case Study](https://github.com/18228077326z-droid/haurux-erp-portfolio/blob/main/CASE_STUDY.md) | [Download the PDF](https://18228077326z-droid.github.io/haurux-erp-portfolio/assets/HAURUX_ERP_UIUX_Portfolio.pdf) | [View the Repository](https://github.com/18228077326z-droid/haurux-erp-portfolio)
+[Open the Live Demo](https://18228077326z-droid.github.io/haurux-erp-portfolio/) | [中文版本](https://18228077326z-droid.github.io/haurux-erp-portfolio/zh/) | [Read the Case Study](https://github.com/18228077326z-droid/haurux-erp-portfolio/blob/main/CASE_STUDY.md) | [Download the PDF](https://18228077326z-droid.github.io/haurux-erp-portfolio/assets/HAURUX_ERP_UIUX_Portfolio.pdf) | [View the Repository](https://github.com/18228077326z-droid/haurux-erp-portfolio)
 
 ## How We Work
 
